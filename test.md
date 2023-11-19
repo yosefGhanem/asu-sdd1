@@ -16,3 +16,6 @@ leave 2 spaces on each line
 - Non-ordered  
 - -Bullet 1
 - -Bullet 2
+
+#Adding Images From Google
+![Visit Google](https://www.becomingminimalist.com/wp-content/uploads/2019/09/how-to-be-happy.jpg)
