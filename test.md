@@ -17,5 +17,7 @@ leave 2 spaces on each line
 - -Bullet 1
 - -Bullet 2
 
-#Adding Images From Google
+#Adding Images From Google Absolute Path
 ![Visit Google](https://www.becomingminimalist.com/wp-content/uploads/2019/09/how-to-be-happy.jpg)
+
+#Adding Images From Google Relative Path
