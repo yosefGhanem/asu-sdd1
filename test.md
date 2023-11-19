@@ -21,3 +21,5 @@ leave 2 spaces on each line
 ![Visit Google](https://www.becomingminimalist.com/wp-content/uploads/2019/09/how-to-be-happy.jpg)
 
 #Adding Images From Google Relative Path
+![Visit Google](Don't-waste-time.jpg)
+
