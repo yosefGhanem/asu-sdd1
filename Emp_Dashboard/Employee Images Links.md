@@ -1,3 +1,3 @@
 # Here are all images
-![Image 1](Emp1.jpg)
-![Image 2](Emp2.jpg)
+![Visit Google](Emp1.jpg)
+![Visit Google](Emp2.jpg)
